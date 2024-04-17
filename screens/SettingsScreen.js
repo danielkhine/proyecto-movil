@@ -101,7 +101,7 @@ function SettingsScreen({ navigation }) {
                   backgroundColor="#002366"
                 />
                 <SubmitButton
-                  title="Speichern"
+                  title="Ingresar"
                 />
                 </AppForm>
                 </View>
